@@ -48,7 +48,8 @@
 *.webp
 
 # Portable Network Graphics
-*.png
+# Allow only Numbered PNGs
+![1-9].png
 
 # Animated Portable Network Graphics
 *.apng
